@@ -26,6 +26,7 @@ require 'set'
 require 'time'
 
 # Patches
+require 'dxopal/patches/base64'
 require 'dxopal/patches/require_remote'
 require 'dxopal/patches/require_dxopal'
 
